@@ -1,57 +1,57 @@
 [submodule "Pool"]
-	path = Pool
+	path = 00-Pool
 	url = https://github.com/S-42-projects/Pool.git
 [submodule "libft"]
-	path = libft
+	path = 01-libft
 	url = https://github.com/S-42-projects/libft.git
 [submodule "get_next_line"]
-	path = get_next_line
+	path = 02-get_next_line
 	url = https://github.com/S-42-projects/get_next_line.git
 [submodule "ft_printf"]
-	path = ft_printf
+	path = 02-ft_printf
 	url = https://github.com/S-42-projects/ft_printf.git
 [submodule "push_swap"]
-	path = push_swap
+	path = 03-push_swap
 	url = https://github.com/S-42-projects/push_swap.git
 [submodule "fract-ol"]
-	path = fract-ol
+	path = 03-fract-ol
 	url = https://github.com/S-42-projects/fract-ol.git
 [submodule "minitalk"]
-	path = minitalk
+	path = 03-minitalk
 	url = https://github.com/S-42-projects/minitalk.git
 [submodule "pipex"]
-	path = pipex
+	path = 03-pipex
 	url = https://github.com/S-42-projects/pipex.git
 [submodule "Minishell"]
-	path = Minishell
+	path = 04-Minishell
 	url = https://github.com/Bilou0412/Minishell.git
 [submodule "Philosophers"]
-	path = Philosophers
+	path = 04-Philosophers
 	url = https://github.com/S-42-projects/Philosophers.git
 [submodule "cub3D"]
-	path = cub3D
+	path = 05-cub3D
 	url = https://github.com/S-42-projects/cub3D.git
 [submodule "cpp_modules"]
-	path = cpp_modules
+	path = 05-cpp_modules
 	url = https://github.com/S-42-projects/cpp_modules.git
 [submodule "inception"]
-	path = inception
+	path = 06-inception
 	url = https://github.com/S-42-projects/inception.git
 [submodule "ft_irc"]
-	path = ft_irc
+	path = 06-ft_irc
 	url = https://github.com/S-42-projects/ft_irc.git
 [submodule "Transcendence"]
-	path = Transcendence
+	path = 07-Transcendence
 	url = https://github.com/Bilou0412/Transcendence.git
 [submodule "libasm"]
-	path = libasm
+	path = 08-libasm
 	url = https://github.com/S-42-projects/libasm.git
 [submodule "embeddedPool"]
-	path = embeddedPool
+	path = 09-embeddedPool
 	url = https://github.com/S-42-projects/embeddedPool.git
 [submodule "kernel"]
-	path = kernel
+	path = 10-kernel
 	url = https://github.com/S-42-projects/kernel.git
 [submodule "Inception-of-Things"]
-	path = Inception-of-Things
+	path = 11-Inception-of-Things
 	url = https://github.com/Bilou0412/Inception-of-Things.git
