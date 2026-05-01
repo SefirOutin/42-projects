@@ -1,0 +1,57 @@
+[submodule "Pool"]
+	path = Pool
+	url = https://github.com/S-42-projects/Pool.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/S-42-projects/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/S-42-projects/get_next_line.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/S-42-projects/ft_printf.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/S-42-projects/push_swap.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/S-42-projects/fract-ol.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/S-42-projects/minitalk.git
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/S-42-projects/pipex.git
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/Bilou0412/Minishell.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/S-42-projects/Philosophers.git
+[submodule "cub3D"]
+	path = cub3D
+	url = https://github.com/S-42-projects/cub3D.git
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = https://github.com/S-42-projects/cpp_modules.git
+[submodule "inception"]
+	path = inception
+	url = https://github.com/S-42-projects/inception.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/S-42-projects/ft_irc.git
+[submodule "Transcendence"]
+	path = Transcendence
+	url = https://github.com/Bilou0412/Transcendence.git
+[submodule "libasm"]
+	path = libasm
+	url = https://github.com/S-42-projects/libasm.git
+[submodule "embeddedPool"]
+	path = embeddedPool
+	url = https://github.com/S-42-projects/embeddedPool.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/S-42-projects/kernel.git
+[submodule "Inception-of-Things"]
+	path = Inception-of-Things
+	url = https://github.com/Bilou0412/Inception-of-Things.git
